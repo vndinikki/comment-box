@@ -1,0 +1,34 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.nestedDiv:hover {
+  border-color: blue;
+}
+
+.nestedDiv {
+  border-left: 2px solid grey;
+  height: 100%;
+  position: absolute;
+}
+
+.textStyle {
+  padding-left: 10px;
+}
+
+.imageStyle {
+  width: 20px;
+  height: 20px;
+}
+
+.div {
+  margin-left: 20px;
+  height: 100%;
+  position: relative;
+}
+
+.buttonImage {
+  height: 15px;
+  width: 15px;
+}
